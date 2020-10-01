@@ -1,2 +1,2 @@
 # pytorch-distributed-balanced-sampler
-making weighted random sampler function in distributed data parallelism neural net training 
+adapting weighted random sampler to function in distributed data parallelism neural net training 
